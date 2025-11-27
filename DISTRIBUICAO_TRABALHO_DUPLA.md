@@ -6,7 +6,7 @@ Para maximizar a produtividade e evitar conflitos, sugerimos dividir assim:
 
 ---
 
-## LAURENT: CAMADA DE MODELOS + ALGUNS SERVICES
+## MEMBRO 1: CAMADA DE MODELOS + ALGUNS SERVICES
 
 ### Responsabilidades:
 
@@ -39,7 +39,7 @@ Para maximizar a produtividade e evitar conflitos, sugerimos dividir assim:
 
 ---
 
-## Nathan: MODELOS DE AVALIAÇÃO + SERVICES RESTANTES
+## MEMBRO 2: MODELOS DE AVALIAÇÃO + SERVICES RESTANTES
 
 ### Responsabilidades:
 

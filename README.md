@@ -5,8 +5,8 @@
 **Disciplina:** LP1 - Linguagem de Programação I  
 **Professora:** Fernanda Dias  
 **Tema:** Educação e Inovação  
-**Equipe:** [Laurent, Nathan Santana]  
-**Líder:** [Laurent]
+**Equipe:** [Membro 1, Membro 2]  
+**Líder:** [Nome do Líder]
 
 ---
 
@@ -199,8 +199,8 @@ mvn exec:java -Dexec.mainClass="com.educacao.cursos.Main"
 
 ## Equipe
 
-- **LAURENT**: Responsável pelos requisitos RF001, RF002, RF005, RF006, RF009, RF010
-- **NATHAN**: Responsável pelos requisitos RF003, RF004, RF007, RF008
+- **Membro 1**: Responsável pelos requisitos RF001, RF002, RF005, RF006, RF009, RF010
+- **Membro 2**: Responsável pelos requisitos RF003, RF004, RF007, RF008
 
 ---
 
