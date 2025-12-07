@@ -5,8 +5,8 @@
 **Disciplina:** LP1 - Linguagem de Programação I  
 **Professora:** Fernanda Dias  
 **Tema:** Educação e Inovação  
-**Equipe:** [Membro 1, Membro 2]  
-**Líder:** [Nome do Líder]
+**Equipe:** Laurent Alves, Nathãn Santana
+**Líder:** Laurent Alves
 
 ---
 
